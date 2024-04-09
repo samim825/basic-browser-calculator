@@ -20,3 +20,6 @@ The result is displayed on the screen.
 ### Code Structure:
 
 The project consists of three separate files: index.html, style.css, and script.js.
+
+### Live Link 
+https://samim825.github.io/basic-browser-calculator/
